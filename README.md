@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, Js, Vue, Php, Laravel**
 
-- 📫 How to reach me **test@gmail.com**
+- 📫 How to reach me **tawsiftamim24@gmail.com**
 
 - 📄 Know about my experiences [not set yet](not set yet)
 
