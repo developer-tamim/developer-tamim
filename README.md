@@ -10,16 +10,16 @@
 
 <!-- - 🌱 I’m currently learning **Frontend Development Advance** -->
 
-- 👯 I’m looking to collaborate on **UI/UX team or Frontend Developer Team**
+-  I’m looking to collaborate on **UI/UX team or Frontend Developer Team**
 
-- 👨‍💻 All of my projects are available at [https://tamim24.netlify.app/](https://tamim24.netlify.app/)
+-  All of my projects are available at [https://tamim24.netlify.app/](https://tamim24.netlify.app/)
 
 
-- 💬 Ask me about **HTML, CSS, Js, Vue, Php, Laravel**
+-  Ask me about **HTML, CSS, Js, Vue, Php, Laravel**
 
-- 📫 How to reach me **tawsiftamim24@gmail.com**
+-  How to reach me **tawsiftamim24@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny and a introvert person**
+-  Fun fact **I think I'm funny and a introvert person**
 
 
 <h3 align="left">Languages and Tools:</h3>
