@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tawsif Tamim</h1>
+<h1 align="center">Hi there, I'm Tawsif Tamim</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Designer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-tamim&label=Profile%20views&color=0e75b6&style=flat" alt="developer-tamim" /> </p>
