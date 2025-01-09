@@ -12,7 +12,7 @@
 
 -  I’m looking to collaborate on **UI/UX team or Frontend Developer Team**
 
--  All of my projects are available at [https://tamim24.netlify.app/](https://tamim24.netlify.app/)
+-  Check my portfolio [https://tamim24.netlify.app/](https://tamim24.netlify.app/)
 
 
 -  Ask me about **HTML, CSS, Js, Vue, Php, Laravel**
